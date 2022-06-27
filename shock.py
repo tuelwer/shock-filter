@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 __authors__ = ["Tobias Uelwer", "Thomas Germer"]
 __date__ = "2022/06/27"
-__license__ = "MIT"
+__license__ = "BSD-2-Clause license"
 
 import scipy
 import scipy.ndimage
